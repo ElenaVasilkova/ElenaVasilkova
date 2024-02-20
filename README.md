@@ -33,10 +33,10 @@
 ## 📊 Статистика:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenaVasilkova&theme=github_dark)
-
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elenavasilkova&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaVasilkova&theme=github_dark)
-
+-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaVasilkova&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElenaVasilkova&theme=github_dark&utcOffset=3)
 
