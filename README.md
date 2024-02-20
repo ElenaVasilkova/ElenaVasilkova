@@ -40,8 +40,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaVasilkova&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElenaVasilkova&theme=github_dark&utcOffset=3)
 
-
-![Profile](https://komarev.com/ghpvc/?username=ElenaVasilkova)
-<!--
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ElenaVasilkova" /></p>
--->
