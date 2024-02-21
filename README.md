@@ -23,12 +23,13 @@
 
 ## ✏️ Контакты:
 
-[![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/)
-[![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/407572130398601217/)
-[![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=Gmail&logoColor=white&color=red)](mailto:)
-
-[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)]()
-[![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)]()
+[![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/Vasilkova_Elena_A)
+[![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=Gmail&logoColor=white&color=red)](mailto:elena.a.vasilkova@gmail.com)
+<!--
+[![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)](https://discordapp.com/users/....)
+-->
+[![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://volgograd.hh.ru/resume/9d58dcd7ff0cc506480039ed1f657275316c46)
+[![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/evinhabr)
 
 ## 📊 Статистика:
 
