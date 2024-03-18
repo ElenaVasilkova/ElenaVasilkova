@@ -31,12 +31,14 @@
 
 ## 📊 Статистика:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenaVasilkova&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenaVasilkova&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elenavasilkova&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaVasilkova&theme=swift)
 <!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elenavasilkova&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaVasilkova&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaVasilkova\&layout=compact)
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaVasilkova&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElenaVasilkova&theme=github_dark&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaVasilkova&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElenaVasilkova&theme=swift&utcOffset=3)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ElenaVasilkova" /></p>
