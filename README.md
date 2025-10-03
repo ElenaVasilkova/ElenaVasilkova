@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Меня зовут <a href="https://github.com/ElenaVasilkova/" target="_blank">Елена</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
 <!--
 **ElenaVasilkova/ElenaVasilkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
