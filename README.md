@@ -4,16 +4,16 @@
 **ElenaVasilkova/ElenaVasilkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 👩‍💻 Обо мне
+## Обо мне
 Технический специалист с опытом backend-разработки.
 
-## 🔧 Техногии & Инструменты
+## Техногии & Инструменты
 
-### 📝 Техническая коммуникация и документирование
+### Техническая коммуникация и документирование
 [![Markdown](https://img.shields.io/badge/Docs-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=blue)](https://www.markdownguide.org/)
 [![Swagger](https://img.shields.io/badge/Skill-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=6aa6f8)](https://swagger.io/)
 
-### 💻 Backend-разработка 
+### Backend-разработка 
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=6aa6f8)](https://www.djangoproject.com/)
 ![DjangoREST](https://img.shields.io/badge/REST-Django-ff1709?style=flat&logo=django&logoColor=white&color=6aa6f8&labelColor=gray)
@@ -28,7 +28,7 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)]()
 [![PyCharm](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/pycharm/)
 
-## ✏️ Контакты:
+## Контакты:
 
 [![Telegram](https://img.shields.io/badge/Priority-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=blue)](https://t.me/Vasilkova_Elena_A)
 [![E-Mail](https://img.shields.io/badge/Mail-informational?style=flat&logo=Gmail&logoColor=white&color=red)](mailto:elena.a.vasilkova@gmail.com)
@@ -36,7 +36,7 @@
 [![HeadHunter](https://img.shields.io/badge/Resume-HeadHunter-informational?style=flat&logo=headhunter&logoColor=white&color=6aa6f8)](https://volgograd.hh.ru/resume/90530f37ff0fcd23080039ed1f7937684c614f)
 [![HabrCareer](https://img.shields.io/badge/Resume-HabrCareer-informational?style=flat&logo=habr&logoColor=white&color=6aa6f8)](https://career.habr.com/evinhabr)
 
-## 📊 Статистика:
+## Статистика:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenaVasilkova&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elenavasilkova&theme=swift)
