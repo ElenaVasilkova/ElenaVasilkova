@@ -51,7 +51,7 @@
 
 ## 📂 Портфолио
 
-Все примеры работ собраны в отдельном репозитории:  
+Примеры работ собраны в отдельном репозитории:  
 👉 [**tech-writer-portfolio**](https://github.com/ElenaVasilkova/tech-writer-portfolio)
 
 Там вы найдёте:
