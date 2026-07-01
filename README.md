@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
 
 <!-- 
-**ElenaVasilkova/ElenaVasilkova** is a ✨ _special_ ✨ repository 
+**ElenaVasilkova/ElenaVasilkova**
 -->
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ## 👩‍💻 О себе
 
-Технический писатель с опытом backend-разработки на Python.  
-Понимаю, как устроены продукты изнутри, и умею переводить сложные технические детали  
-(API, архитектуру, логику) на язык понятной документации для разработчиков и пользователей.
+Специалист технической поддержки с опытом разработки на Python.  
+Понимаю внутреннее устройство веб-приложений, умею быстро диагностировать проблемы,  
+читать логи, конфиги и API-документацию. Ориентирована на результат и качественное решение задач клиента.
 
 ---
 
@@ -28,9 +28,10 @@
 [![Swagger](https://img.shields.io/badge/API_Specs-OpenAPI-informational?style=flat&logo=swagger&logoColor=white&color=blue)](https://swagger.io/)
 [![Git](https://img.shields.io/badge/Workflow-Git-informational?style=flat&logo=git&logoColor=white&color=blue)](https://git-scm.com/)
 [![Confluence](https://img.shields.io/badge/Wiki-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=blue)](https://www.atlassian.com/software/confluence)
-[![Figma](https://img.shields.io/badge/Diagrams-Figma-informational?style=flat&logo=figma&logoColor=white&color=blue)](https://www.figma.com/)
+[![Jira](https://img.shields.io/badge/Tracking-Jira-informational?style=flat&logo=jira&logoColor=white&color=blue)](https://www.atlassian.com/software/jira)
+[![Postman](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue)](https://www.postman.com/)
 
-### 💻 Backend-разработка (технический бэкграунд)
+### 💻 Backend
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=6aa6f8)](https://www.djangoproject.com/)
 [![DjangoREST](https://img.shields.io/badge/REST-Django_rest_framework-ff1709?style=flat&logo=django&logoColor=white&color=6aa6f8&labelColor=gray)](https://www.django-rest-framework.org/)
@@ -40,6 +41,9 @@
 
 ### ⚙️ Окружение
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)]()
+[![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)]()
+[![SSH](https://img.shields.io/badge/Tools-SSH-informational?style=flat&logo=openssh&logoColor=white&color=blue)]()
+[![Bash](https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)]()
 [![PyCharm](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)](https://code.visualstudio.com/)
 
