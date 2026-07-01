@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ElenaVasilkova/tech-writer-portfolio">
-    <img src="https://img.shields.io/badge/📚 Портфолио-Технический_писатель-blue?style=for-the-badge" alt="Портфолио">
+    <img src="https://img.shields.io/badge/📚 Портфолио-Специалист технической поддержки-blue?style=for-the-badge" alt="Портфолио">
   </a>
 </p>
 
